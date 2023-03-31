@@ -1,1 +1,34 @@
+header {
+  align-items: center;
+  font-size: 16px;
+}
 
+h1 {
+  color: #000000;
+  height: 45px;
+  wdith: 45px;
+}
+
+footer{
+    position: relative;
+   color: white;
+}
+
+ul {
+    position: fixed;
+   font-size: 12px;
+}
+
+ol{
+     position: fixed;
+   font-size: 12px;
+}
+p {
+  font-family: ariel;
+  background-color: #e38bf7;
+}
+
+body {
+  position: fixed;
+  fontfamily: ariel;
+}
